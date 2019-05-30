@@ -3,6 +3,7 @@ package springframework.recipeapp.models;
 
 import javax.persistence.*;
 
+@Entity
 public class Notes {
 
 
